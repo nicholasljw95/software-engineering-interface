@@ -1,4 +1,4 @@
-﻿Public Class frmLogin
+﻿Public Class CustomerHomePage
     Private Sub frmLogin_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         If txtTime.Text = "" Then
             txtTime.Text = "Example : 1400"

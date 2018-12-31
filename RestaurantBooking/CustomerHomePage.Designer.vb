@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
-Partial Class frmLogin
+Partial Class CustomerHomePage
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
@@ -655,7 +655,7 @@ Partial Class frmLogin
         Me.BunifuCustomLabel19.TabIndex = 34
         Me.BunifuCustomLabel19.Text = "Welcome to Happy Restaurant."
         '
-        'frmLogin
+        'CustomerHomePage
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
@@ -693,7 +693,7 @@ Partial Class frmLogin
         Me.Controls.Add(Me.pnlTopSide)
         Me.Controls.Add(Me.pnlLeftSide)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
-        Me.Name = "frmLogin"
+        Me.Name = "CustomerHomePage"
         Me.Text = "Form1"
         Me.pnlLeftSide.ResumeLayout(False)
         Me.Panel1.ResumeLayout(False)
