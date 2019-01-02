@@ -5,7 +5,7 @@
 
     Private Sub btnLogin_Click(sender As Object, e As EventArgs) Handles btnLogin.Click
         If txtUsername.Text = "1" And txtPassword.Text = "111" Then
-            ' AdminHomePage.ShowDialog()
+            AdminPage.ShowDialog()
         ElseIf txtUsername.Text = "2" And txtPassword.Text = "222" Then
             CustomerHomePage.ShowDialog()
         ElseIf txtUsername.Text = "3" And txtPassword.Text = "333" Then

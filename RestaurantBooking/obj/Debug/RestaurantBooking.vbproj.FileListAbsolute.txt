@@ -42,3 +42,18 @@ C:\Users\LJW\Desktop\RestaurantBooking\RestaurantBooking\obj\Debug\RestaurantBoo
 C:\Users\LJW\Desktop\RestaurantBooking\RestaurantBooking\obj\Debug\RestaurantBooking.vbproj.GenerateResource.Cache
 C:\Users\LJW\Desktop\RestaurantBooking\RestaurantBooking\obj\Debug\RestaurantBooking.Login.resources
 C:\Users\LJW\Desktop\RestaurantBooking\RestaurantBooking\obj\Debug\RestaurantBooking.CustomerHomePage.resources
+D:\Visual Studio\Source\software-engineering-interface\RestaurantBooking\bin\Debug\RestaurantBooking.exe.config
+D:\Visual Studio\Source\software-engineering-interface\RestaurantBooking\bin\Debug\RestaurantBooking.exe
+D:\Visual Studio\Source\software-engineering-interface\RestaurantBooking\bin\Debug\RestaurantBooking.pdb
+D:\Visual Studio\Source\software-engineering-interface\RestaurantBooking\bin\Debug\RestaurantBooking.xml
+D:\Visual Studio\Source\software-engineering-interface\RestaurantBooking\obj\Debug\RestaurantBooking.vbprojAssemblyReference.cache
+D:\Visual Studio\Source\software-engineering-interface\RestaurantBooking\obj\Debug\RestaurantBooking.AdminPage.resources
+D:\Visual Studio\Source\software-engineering-interface\RestaurantBooking\obj\Debug\RestaurantBooking.CustomerHomePage.resources
+D:\Visual Studio\Source\software-engineering-interface\RestaurantBooking\obj\Debug\RestaurantBooking.Login.resources
+D:\Visual Studio\Source\software-engineering-interface\RestaurantBooking\obj\Debug\RestaurantBooking.Resources.resources
+D:\Visual Studio\Source\software-engineering-interface\RestaurantBooking\obj\Debug\RestaurantBooking.vbproj.GenerateResource.cache
+D:\Visual Studio\Source\software-engineering-interface\RestaurantBooking\obj\Debug\RestaurantBooking.vbproj.CoreCompileInputs.cache
+D:\Visual Studio\Source\software-engineering-interface\RestaurantBooking\obj\Debug\RestaurantBooking.vbproj.CopyComplete
+D:\Visual Studio\Source\software-engineering-interface\RestaurantBooking\obj\Debug\RestaurantBooking.exe
+D:\Visual Studio\Source\software-engineering-interface\RestaurantBooking\obj\Debug\RestaurantBooking.xml
+D:\Visual Studio\Source\software-engineering-interface\RestaurantBooking\obj\Debug\RestaurantBooking.pdb
