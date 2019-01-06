@@ -9,7 +9,7 @@
         ElseIf txtUsername.Text = "2" And txtPassword.Text = "222" Then
             CustomerHomePage.ShowDialog()
         ElseIf txtUsername.Text = "3" And txtPassword.Text = "333" Then
-            ' WaiterHomepage.ShowDialog()
+            WaiterHomepage.ShowDialog()
         Else
             MsgBox("Invalid login.")
         End If

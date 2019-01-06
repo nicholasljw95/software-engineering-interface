@@ -163,6 +163,12 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="Resources\WaiterHomepage.Designer.vb">
+      <DependentUpon>WaiterHomepage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\WaiterHomepage.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="AdminPage.resx">
@@ -179,6 +185,9 @@
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\WaiterHomepage.resx">
+      <DependentUpon>WaiterHomepage.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

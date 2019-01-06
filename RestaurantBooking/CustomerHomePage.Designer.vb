@@ -109,7 +109,7 @@ Partial Class CustomerHomePage
         '
         Me.Button4.FlatAppearance.BorderSize = 0
         Me.Button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Button4.Font = New System.Drawing.Font("Berlin Sans FB Demi", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button4.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button4.ForeColor = System.Drawing.SystemColors.Control
         Me.Button4.Image = Global.RestaurantBooking.My.Resources.Resources.btn_AboutUs
         Me.Button4.Location = New System.Drawing.Point(0, 242)
@@ -124,7 +124,7 @@ Partial Class CustomerHomePage
         '
         Me.btnAboutUs.FlatAppearance.BorderSize = 0
         Me.btnAboutUs.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.btnAboutUs.Font = New System.Drawing.Font("Berlin Sans FB Demi", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnAboutUs.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnAboutUs.ForeColor = System.Drawing.SystemColors.Control
         Me.btnAboutUs.Image = Global.RestaurantBooking.My.Resources.Resources.btnHistory
         Me.btnAboutUs.Location = New System.Drawing.Point(0, 193)
@@ -147,7 +147,7 @@ Partial Class CustomerHomePage
         '
         Me.btnRoomReserve.FlatAppearance.BorderSize = 0
         Me.btnRoomReserve.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.btnRoomReserve.Font = New System.Drawing.Font("Berlin Sans FB Demi", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnRoomReserve.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnRoomReserve.ForeColor = System.Drawing.SystemColors.Control
         Me.btnRoomReserve.Image = Global.RestaurantBooking.My.Resources.Resources.btnReserve
         Me.btnRoomReserve.Location = New System.Drawing.Point(0, 144)
@@ -171,7 +171,7 @@ Partial Class CustomerHomePage
         '
         Me.btnAdvanceOrder.FlatAppearance.BorderSize = 0
         Me.btnAdvanceOrder.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.btnAdvanceOrder.Font = New System.Drawing.Font("Berlin Sans FB Demi", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnAdvanceOrder.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnAdvanceOrder.ForeColor = System.Drawing.SystemColors.Control
         Me.btnAdvanceOrder.Image = Global.RestaurantBooking.My.Resources.Resources.btnOrder
         Me.btnAdvanceOrder.Location = New System.Drawing.Point(0, 95)
@@ -208,20 +208,20 @@ Partial Class CustomerHomePage
         'BunifuCustomLabel1
         '
         Me.BunifuCustomLabel1.AutoSize = True
-        Me.BunifuCustomLabel1.Font = New System.Drawing.Font("Berlin Sans FB", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.BunifuCustomLabel1.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BunifuCustomLabel1.Location = New System.Drawing.Point(272, 103)
         Me.BunifuCustomLabel1.Name = "BunifuCustomLabel1"
-        Me.BunifuCustomLabel1.Size = New System.Drawing.Size(62, 23)
+        Me.BunifuCustomLabel1.Size = New System.Drawing.Size(64, 25)
         Me.BunifuCustomLabel1.TabIndex = 3
         Me.BunifuCustomLabel1.Text = "Date :"
         '
         'BunifuCustomLabel2
         '
         Me.BunifuCustomLabel2.AutoSize = True
-        Me.BunifuCustomLabel2.Font = New System.Drawing.Font("Berlin Sans FB", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.BunifuCustomLabel2.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BunifuCustomLabel2.Location = New System.Drawing.Point(274, 152)
         Me.BunifuCustomLabel2.Name = "BunifuCustomLabel2"
-        Me.BunifuCustomLabel2.Size = New System.Drawing.Size(60, 23)
+        Me.BunifuCustomLabel2.Size = New System.Drawing.Size(67, 25)
         Me.BunifuCustomLabel2.TabIndex = 5
         Me.BunifuCustomLabel2.Text = "Time :"
         '
@@ -266,20 +266,20 @@ Partial Class CustomerHomePage
         'BunifuCustomLabel3
         '
         Me.BunifuCustomLabel3.AutoSize = True
-        Me.BunifuCustomLabel3.Font = New System.Drawing.Font("Berlin Sans FB", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.BunifuCustomLabel3.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BunifuCustomLabel3.Location = New System.Drawing.Point(247, 201)
         Me.BunifuCustomLabel3.Name = "BunifuCustomLabel3"
-        Me.BunifuCustomLabel3.Size = New System.Drawing.Size(87, 23)
+        Me.BunifuCustomLabel3.Size = New System.Drawing.Size(90, 25)
         Me.BunifuCustomLabel3.TabIndex = 8
         Me.BunifuCustomLabel3.Text = "Remark :"
         '
         'BunifuCustomLabel4
         '
         Me.BunifuCustomLabel4.AutoSize = True
-        Me.BunifuCustomLabel4.Font = New System.Drawing.Font("Berlin Sans FB", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.BunifuCustomLabel4.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BunifuCustomLabel4.Location = New System.Drawing.Point(272, 256)
         Me.BunifuCustomLabel4.Name = "BunifuCustomLabel4"
-        Me.BunifuCustomLabel4.Size = New System.Drawing.Size(62, 23)
+        Me.BunifuCustomLabel4.Size = New System.Drawing.Size(68, 25)
         Me.BunifuCustomLabel4.TabIndex = 10
         Me.BunifuCustomLabel4.Text = "Food :"
         '
@@ -293,7 +293,7 @@ Partial Class CustomerHomePage
         '
         'Button1
         '
-        Me.Button1.Font = New System.Drawing.Font("Berlin Sans FB", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button1.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button1.Image = Global.RestaurantBooking.My.Resources.Resources.turkey
         Me.Button1.ImageAlign = System.Drawing.ContentAlignment.BottomCenter
         Me.Button1.Location = New System.Drawing.Point(0, 3)
@@ -314,7 +314,7 @@ Partial Class CustomerHomePage
         '
         'Button2
         '
-        Me.Button2.Font = New System.Drawing.Font("Berlin Sans FB", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button2.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button2.Image = Global.RestaurantBooking.My.Resources.Resources.burger
         Me.Button2.ImageAlign = System.Drawing.ContentAlignment.BottomCenter
         Me.Button2.Location = New System.Drawing.Point(0, 3)
@@ -335,7 +335,7 @@ Partial Class CustomerHomePage
         '
         'Button3
         '
-        Me.Button3.Font = New System.Drawing.Font("Berlin Sans FB", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button3.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button3.Image = Global.RestaurantBooking.My.Resources.Resources.coffee
         Me.Button3.ImageAlign = System.Drawing.ContentAlignment.BottomCenter
         Me.Button3.Location = New System.Drawing.Point(0, 3)
@@ -403,10 +403,10 @@ Partial Class CustomerHomePage
         'BunifuCustomLabel5
         '
         Me.BunifuCustomLabel5.AutoSize = True
-        Me.BunifuCustomLabel5.Font = New System.Drawing.Font("Berlin Sans FB", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.BunifuCustomLabel5.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BunifuCustomLabel5.Location = New System.Drawing.Point(287, 267)
         Me.BunifuCustomLabel5.Name = "BunifuCustomLabel5"
-        Me.BunifuCustomLabel5.Size = New System.Drawing.Size(95, 23)
+        Me.BunifuCustomLabel5.Size = New System.Drawing.Size(96, 25)
         Me.BunifuCustomLabel5.TabIndex = 16
         Me.BunifuCustomLabel5.Text = "Quantity :"
         '
@@ -483,40 +483,40 @@ Partial Class CustomerHomePage
         'BunifuCustomLabel6
         '
         Me.BunifuCustomLabel6.AutoSize = True
-        Me.BunifuCustomLabel6.Font = New System.Drawing.Font("Berlin Sans FB", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.BunifuCustomLabel6.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BunifuCustomLabel6.Location = New System.Drawing.Point(274, 312)
         Me.BunifuCustomLabel6.Name = "BunifuCustomLabel6"
-        Me.BunifuCustomLabel6.Size = New System.Drawing.Size(164, 23)
+        Me.BunifuCustomLabel6.Size = New System.Drawing.Size(170, 25)
         Me.BunifuCustomLabel6.TabIndex = 21
         Me.BunifuCustomLabel6.Text = "Total :       RM0.00"
         '
         'BunifuCustomLabel7
         '
         Me.BunifuCustomLabel7.AutoSize = True
-        Me.BunifuCustomLabel7.Font = New System.Drawing.Font("Berlin Sans FB", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.BunifuCustomLabel7.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BunifuCustomLabel7.Location = New System.Drawing.Point(287, 393)
         Me.BunifuCustomLabel7.Name = "BunifuCustomLabel7"
-        Me.BunifuCustomLabel7.Size = New System.Drawing.Size(186, 23)
+        Me.BunifuCustomLabel7.Size = New System.Drawing.Size(197, 25)
         Me.BunifuCustomLabel7.TabIndex = 22
         Me.BunifuCustomLabel7.Text = "Burger(RM 5.00) * 10"
         '
         'BunifuCustomLabel8
         '
         Me.BunifuCustomLabel8.AutoSize = True
-        Me.BunifuCustomLabel8.Font = New System.Drawing.Font("Berlin Sans FB", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.BunifuCustomLabel8.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BunifuCustomLabel8.Location = New System.Drawing.Point(287, 425)
         Me.BunifuCustomLabel8.Name = "BunifuCustomLabel8"
-        Me.BunifuCustomLabel8.Size = New System.Drawing.Size(187, 23)
+        Me.BunifuCustomLabel8.Size = New System.Drawing.Size(206, 25)
         Me.BunifuCustomLabel8.TabIndex = 23
         Me.BunifuCustomLabel8.Text = "Chicken(RM19.00) * 5"
         '
         'BunifuCustomLabel9
         '
         Me.BunifuCustomLabel9.AutoSize = True
-        Me.BunifuCustomLabel9.Font = New System.Drawing.Font("Berlin Sans FB", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.BunifuCustomLabel9.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BunifuCustomLabel9.Location = New System.Drawing.Point(573, 425)
         Me.BunifuCustomLabel9.Name = "BunifuCustomLabel9"
-        Me.BunifuCustomLabel9.Size = New System.Drawing.Size(164, 23)
+        Me.BunifuCustomLabel9.Size = New System.Drawing.Size(170, 25)
         Me.BunifuCustomLabel9.TabIndex = 24
         Me.BunifuCustomLabel9.Text = "Total :       RM0.00"
         '
@@ -558,100 +558,100 @@ Partial Class CustomerHomePage
         'BunifuCustomLabel10
         '
         Me.BunifuCustomLabel10.AutoSize = True
-        Me.BunifuCustomLabel10.Font = New System.Drawing.Font("Berlin Sans FB", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.BunifuCustomLabel10.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BunifuCustomLabel10.Location = New System.Drawing.Point(434, 214)
         Me.BunifuCustomLabel10.Name = "BunifuCustomLabel10"
-        Me.BunifuCustomLabel10.Size = New System.Drawing.Size(163, 23)
+        Me.BunifuCustomLabel10.Size = New System.Drawing.Size(185, 25)
         Me.BunifuCustomLabel10.TabIndex = 26
         Me.BunifuCustomLabel10.Text = "Booked Successful "
         '
         'BunifuCustomLabel11
         '
         Me.BunifuCustomLabel11.AutoSize = True
-        Me.BunifuCustomLabel11.Font = New System.Drawing.Font("Berlin Sans FB", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.BunifuCustomLabel11.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BunifuCustomLabel11.Location = New System.Drawing.Point(244, 61)
         Me.BunifuCustomLabel11.Name = "BunifuCustomLabel11"
-        Me.BunifuCustomLabel11.Size = New System.Drawing.Size(206, 23)
+        Me.BunifuCustomLabel11.Size = New System.Drawing.Size(217, 25)
         Me.BunifuCustomLabel11.TabIndex = 27
         Me.BunifuCustomLabel11.Text = "Order / Room Reserved"
         '
         'BunifuCustomLabel12
         '
         Me.BunifuCustomLabel12.AutoSize = True
-        Me.BunifuCustomLabel12.Font = New System.Drawing.Font("Berlin Sans FB", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.BunifuCustomLabel12.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BunifuCustomLabel12.Location = New System.Drawing.Point(557, 61)
         Me.BunifuCustomLabel12.Name = "BunifuCustomLabel12"
-        Me.BunifuCustomLabel12.Size = New System.Drawing.Size(102, 23)
+        Me.BunifuCustomLabel12.Size = New System.Drawing.Size(107, 25)
         Me.BunifuCustomLabel12.TabIndex = 28
         Me.BunifuCustomLabel12.Text = "Date & Time"
         '
         'BunifuCustomLabel13
         '
         Me.BunifuCustomLabel13.AutoSize = True
-        Me.BunifuCustomLabel13.Font = New System.Drawing.Font("Berlin Sans FB", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.BunifuCustomLabel13.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BunifuCustomLabel13.Location = New System.Drawing.Point(308, 175)
         Me.BunifuCustomLabel13.Name = "BunifuCustomLabel13"
-        Me.BunifuCustomLabel13.Size = New System.Drawing.Size(90, 23)
+        Me.BunifuCustomLabel13.Size = New System.Drawing.Size(95, 25)
         Me.BunifuCustomLabel13.TabIndex = 28
         Me.BunifuCustomLabel13.Text = "Order001"
         '
         'BunifuCustomLabel14
         '
         Me.BunifuCustomLabel14.AutoSize = True
-        Me.BunifuCustomLabel14.Font = New System.Drawing.Font("Berlin Sans FB", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.BunifuCustomLabel14.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BunifuCustomLabel14.Location = New System.Drawing.Point(308, 141)
         Me.BunifuCustomLabel14.Name = "BunifuCustomLabel14"
-        Me.BunifuCustomLabel14.Size = New System.Drawing.Size(94, 23)
+        Me.BunifuCustomLabel14.Size = New System.Drawing.Size(95, 25)
         Me.BunifuCustomLabel14.TabIndex = 29
         Me.BunifuCustomLabel14.Text = "Order002"
         '
         'BunifuCustomLabel15
         '
         Me.BunifuCustomLabel15.AutoSize = True
-        Me.BunifuCustomLabel15.Font = New System.Drawing.Font("Berlin Sans FB", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.BunifuCustomLabel15.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BunifuCustomLabel15.Location = New System.Drawing.Point(310, 103)
         Me.BunifuCustomLabel15.Name = "BunifuCustomLabel15"
-        Me.BunifuCustomLabel15.Size = New System.Drawing.Size(88, 23)
+        Me.BunifuCustomLabel15.Size = New System.Drawing.Size(96, 25)
         Me.BunifuCustomLabel15.TabIndex = 30
         Me.BunifuCustomLabel15.Text = "Room001"
         '
         'BunifuCustomLabel16
         '
         Me.BunifuCustomLabel16.AutoSize = True
-        Me.BunifuCustomLabel16.Font = New System.Drawing.Font("Berlin Sans FB", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.BunifuCustomLabel16.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BunifuCustomLabel16.Location = New System.Drawing.Point(565, 103)
         Me.BunifuCustomLabel16.Name = "BunifuCustomLabel16"
-        Me.BunifuCustomLabel16.Size = New System.Drawing.Size(91, 23)
+        Me.BunifuCustomLabel16.Size = New System.Drawing.Size(112, 25)
         Me.BunifuCustomLabel16.TabIndex = 31
         Me.BunifuCustomLabel16.Text = "21/12/2018"
         '
         'BunifuCustomLabel17
         '
         Me.BunifuCustomLabel17.AutoSize = True
-        Me.BunifuCustomLabel17.Font = New System.Drawing.Font("Berlin Sans FB", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.BunifuCustomLabel17.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BunifuCustomLabel17.Location = New System.Drawing.Point(565, 141)
         Me.BunifuCustomLabel17.Name = "BunifuCustomLabel17"
-        Me.BunifuCustomLabel17.Size = New System.Drawing.Size(94, 23)
+        Me.BunifuCustomLabel17.Size = New System.Drawing.Size(112, 25)
         Me.BunifuCustomLabel17.TabIndex = 32
         Me.BunifuCustomLabel17.Text = "23/12/2018"
         '
         'BunifuCustomLabel18
         '
         Me.BunifuCustomLabel18.AutoSize = True
-        Me.BunifuCustomLabel18.Font = New System.Drawing.Font("Berlin Sans FB", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.BunifuCustomLabel18.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BunifuCustomLabel18.Location = New System.Drawing.Point(565, 175)
         Me.BunifuCustomLabel18.Name = "BunifuCustomLabel18"
-        Me.BunifuCustomLabel18.Size = New System.Drawing.Size(95, 23)
+        Me.BunifuCustomLabel18.Size = New System.Drawing.Size(112, 25)
         Me.BunifuCustomLabel18.TabIndex = 33
         Me.BunifuCustomLabel18.Text = "25/12/2018"
         '
         'BunifuCustomLabel19
         '
         Me.BunifuCustomLabel19.AutoSize = True
-        Me.BunifuCustomLabel19.Font = New System.Drawing.Font("Berlin Sans FB", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.BunifuCustomLabel19.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BunifuCustomLabel19.Location = New System.Drawing.Point(363, 211)
         Me.BunifuCustomLabel19.Name = "BunifuCustomLabel19"
-        Me.BunifuCustomLabel19.Size = New System.Drawing.Size(271, 23)
+        Me.BunifuCustomLabel19.Size = New System.Drawing.Size(282, 25)
         Me.BunifuCustomLabel19.TabIndex = 34
         Me.BunifuCustomLabel19.Text = "Welcome to Happy Restaurant."
         '
